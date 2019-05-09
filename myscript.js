@@ -1,0 +1,1 @@
+body.style.backgroundColor = red
