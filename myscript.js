@@ -1,1 +1,1 @@
-body.style.backgroundColor = red
+console.log('hello GIT')
